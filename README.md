@@ -46,6 +46,9 @@ npm run dev
 Run the localhost file by Ctrl + Left Clicking the link 
 (example link : http://localhost:3001)
 
+### 6) Error fixing
+You can use chatgpt to fix any errors that may come in your way while trying to run the project, if you dont see anything on the website, just refresh it once and it'll be working. I've also added screenshots if you dont want to clone the project.
+
 ## Usage
 Submit a Grievance: Navigate to the grievance submission form and provide the necessary details.
 Track Grievance: Use the grievance tracking feature to check the status of your submissions.
