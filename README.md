@@ -26,7 +26,7 @@ Python
 CSS
 
 ### 1) Clone the Repository
-git clone https://github.com/Sarveshero3/Grievance_and_Tracking.git
+git clone https://github.com/normienishant/grievance-tracking-and-lodging.git
 
 ### 2) Open Terminal
 Open terminal in VS Code using ctrl + ` 
