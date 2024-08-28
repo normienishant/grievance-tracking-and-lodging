@@ -44,7 +44,7 @@ export default function ContactUs() {
               <div>
                 <h2 className="text-2xl font-semibold mb-4 text-gray-800 dark:text-white">Get in Touch</h2>
                 <p className="text-gray-600 dark:text-gray-300 mb-4">
-                  We're here to help and answer any question you might have. We look forward to hearing from you!
+                  We&aptos;re here to help and answer any question you might have. We look forward to hearing from you!
                 </p>
                 <div className="mb-4">
                   <h3 className="font-semibold text-gray-800 dark:text-white">Address</h3>
